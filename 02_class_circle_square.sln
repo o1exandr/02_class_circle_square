@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_class_circle_square", "02_class_circle_square\02_class_circle_square.vcxproj", "{74DB6FDF-2686-4241-BED2-BCBCFB11BDCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74DB6FDF-2686-4241-BED2-BCBCFB11BDCA}.Debug|x64.ActiveCfg = Debug|x64
+		{74DB6FDF-2686-4241-BED2-BCBCFB11BDCA}.Debug|x64.Build.0 = Debug|x64
+		{74DB6FDF-2686-4241-BED2-BCBCFB11BDCA}.Debug|x86.ActiveCfg = Debug|Win32
+		{74DB6FDF-2686-4241-BED2-BCBCFB11BDCA}.Debug|x86.Build.0 = Debug|Win32
+		{74DB6FDF-2686-4241-BED2-BCBCFB11BDCA}.Release|x64.ActiveCfg = Release|x64
+		{74DB6FDF-2686-4241-BED2-BCBCFB11BDCA}.Release|x64.Build.0 = Release|x64
+		{74DB6FDF-2686-4241-BED2-BCBCFB11BDCA}.Release|x86.ActiveCfg = Release|Win32
+		{74DB6FDF-2686-4241-BED2-BCBCFB11BDCA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBD0C268-DE41-4177-A9AE-6F6FBB5B1690}
+	EndGlobalSection
+EndGlobal
